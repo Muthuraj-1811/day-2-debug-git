@@ -9,7 +9,7 @@ def calculate_average(numbers):
 
 
 def main():
-    numbers = [10, 20, 30, 40, 50]
+    numbers = [10, 20, 30, 40, 100]
 
     result = calculate_average(numbers)
 
